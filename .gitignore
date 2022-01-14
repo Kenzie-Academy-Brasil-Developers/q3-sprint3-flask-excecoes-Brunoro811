@@ -1,0 +1,5 @@
+venv/
+__pychace__/
+.env
+database/
+t_app.py
